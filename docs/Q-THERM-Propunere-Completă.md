@@ -153,3 +153,38 @@ Opportunities (Oportunități - Externe)
 •	Finanțare masivă nerambursabilă prin Horizon Europe pentru proiecte EIC Pathfinder (tehnologii cu risc mare, dar impact uriaș).
 •	Cererea disperată a pieței de data centers pentru soluții de reducere a consumului de energie.
 •	Alinierea perfectă cu politicile UE privind suveranitatea tehnologică.
+
+
+# Q-THERM: Metamateriale pe Bază de Cuarț pentru Răcire Radiativă Pasivă și Management Energetic Cuantic
+
+## 1. Informații Generale
+- **Titlul Proiectului:** Q-THERM: Metamateriale pe Bază de Cuarț pentru Răcire Radiativă Pasivă și Management Energetic Cuantic
+- **Pilonul de Finanțare:** Horizon Europe – EIC Pathfinder Open (Destinat tehnologiilor radicale, de la fază de idee până la prototip structural).
+- **Buget Estimat:** 4.000.000 EUR
+- **Durată:** 36 de luni
+- **Consorțiu Recomandat:** 3-5 Universități Europene (institut de fizică cuantică, facultate de știința materialelor și centru de calcul de înaltă performanță/cuantic).
+
+## 2. Rezumatul Executiv (The Abstract)
+Proiectul Q-THERM își propune să rezolve criza energetică globală a centrelor de date prin proiectarea unui nou tip de metamaterial geometric bazat pe Bioxid de Siliciu (Cuarț) nanostructurat. Tehnologia va funcționa ca un „izolator termic inversat”, transformând căldura reziduală în radiație infraroșie acordată pe fereastra atmosferică, expulzând energia termică direct în vidul cosmic (Sky Cooling) fără consum de energie. Proiectul va utiliza Calculul Cuantic pentru modelarea rețelelor atomice și va explora interacțiunea fononilor din cuarț cu fluctuațiile cuantice de fundal (ZPE) și reacțiile nucleare la energie joasă (LENR).
+
+## 3. Pachete de Lucru (Work Packages - WP) și Jaloane (Milestones)
+- **WP1: Modelare Cuantică și Simulare Atomică (Luni 1-12):** Utilizarea algoritmilor cuantici pentru a simula topologia geometrică ideală a cuarțului nanostructurat.
+  - *Jalonul 1 (Luna 6):* Maparea matematică a frecvențelor de rezonanță fononică.
+- **WP2: Sinteza Materialului și Nanofabricare (Luni 10-24):** Transpunerea modelelor teoretice prin litografie electronică și depunere de straturi atomice (ALD) pe cristale de cuarț.
+  - *Jalonul 2 (Luna 18):* Producerea primei membrane hibride de cuarț cu geometrie Casimir.
+- **WP3: Testare Termodinamică și Integrare LENR (Luni 18-32):** Evaluarea răcirii pasive și testarea comportamentului materialului cu izotopi de hidrogen.
+  - *Jalonul 3 (Luna 24):* Demonstrarea scăderii temperaturii sub nivelul mediului ambiant în plin soare.
+- **WP4: Managementul Proiectului, Proprietate Intelectuală și Open Science (Luni 1-36):** Protejarea rezultatelor și diseminarea lor către mediul academic european.
+  - *Jalonul 4 (Luna 30):* Depunerea cererilor de brevet la EPO sub licență deschisă pentru uz academic.
+
+## 4. Bugetul Proiectului (4.000.000 EUR)
+- **Costuri de Personal (70% - 2.800.000 EUR):** Salarii pentru cercetători seniori, post-doctoranzi și doctoranzi.
+- **Echipamente & Infrastructură (15% - 600.000 EUR):** Timp de calcul cuantic (IBM Quantum / EuroHPC) și senzori de precizie.
+- **Consumabile & Subcontractare (5% - 200.000 EUR):** Wafe de cuarț pur, gaze speciale ALD și taxe de brevet.
+- **Regie și Costuri Indirecte (10% - 400.000 EUR):** Management administrativ și utilități laboratoare.
+
+## 5. Strategia de Monetizare și Globalizare
+Proiectul oferă o flexibilitate totală pentru atragerea investitorilor și statelor globale:
+1. **Modelul de Listare Directă (Preț Fix - 5.000 EUR):** Pachetul complet de documentație tehnică și jaloane disponibil pentru implementare rapidă în laboratoare naționale sau private.
+2. **Tokenizarea Globală ($QTHM):** Emiterea de tokeni pe blockchain pentru drepturi de redevență și acces prioritar la tehnologia metamaterialelor de cuarț, ocolind birocrația tradițională.
+
