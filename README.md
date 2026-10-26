@@ -9,4 +9,6 @@ Puteți citi integral propunerea de cercetare direct în browser:
 ## Structura Repository-ului
 - `ai-core/` - Conține scriptul Python pentru simularea rezonanței fononice cuantice.
 - `inteligenta artificiala.docx` - Documentația oficială completă a proiectului.
+
+
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
